@@ -4,7 +4,7 @@ import PRJ1 from '../assets/projects/prj-1.webp'
 function Projects() {
   const arr_img = [PRJ1,PRJ1,PRJ1,PRJ1,PRJ1];
   const arr_title = ['Todolist','Weather App','Exchange Rates','Random Meal Generator','Portfolio'];
-  const arr_tech = ['ReactJS, NodeJS, TailwindCSS, API','ReactJS,TailwindCSS, API (openweathermap)','ReactJS, TailwindCSS','NextJS, TailwindCSS, API (themealdb)','5'];
+  const arr_tech = ['ReactJS, NodeJS, TailwindCSS, API','ReactJS,TailwindCSS, API (openweathermap)','ReactJS, TailwindCSS','NextJS, TailwindCSS, API (themealdb)','ReactJS, TailwindCSS, Reponsive'];
   const arr_des = ['Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries']
   const arr_link_github = ['https://github.com/tranbinhquang246/todolist_React','https://github.com/tranbinhquang246/Wheather_App_ReactJS','https://github.com/tranbinhquang246/Exchange_Rates_ReactJS','https://github.com/tranbinhquang246/random_meal_generator','https://github.com/tranbinhquang246/portfolio'];
   const arr_link_demo = ['','','https://exchange-rates-react-js.vercel.app/','','']
